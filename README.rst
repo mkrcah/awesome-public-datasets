@@ -397,6 +397,7 @@ Transportation
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* `RDW - details of all registered cars in Netherlands <https://datamarket.azure.com/dataset/opendata.rdw/vrtg.open.data#schema>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
 * `Transport for London (TFL) <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
@@ -404,7 +405,6 @@ Transportation
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 * `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
 * `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
-
 
 Complementary Collections
 -------------------------
